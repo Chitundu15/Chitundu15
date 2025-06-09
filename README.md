@@ -1,7 +1,7 @@
 ### 👋 Hey! I'm Chitundu!
 <li>👩🏽‍💻 Aspiring Software Engineer </li>
 <li>👀 I’m really interested in Software Development</li>
-<li>🌱 I’m currently learning C#</li>
+<li>🌱 I’m currently learning Python</li>
   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Chitundu_m15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chitundu-milimbo-1b6445255/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ChitunduMilimbo15) 
