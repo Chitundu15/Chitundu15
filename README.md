@@ -11,10 +11,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chitundu15&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chitundu15&theme=github-dark-dimmed&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)]
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitundu15&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Chitundu15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chitundu15&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
