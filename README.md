@@ -11,13 +11,11 @@
 
 
 # 📊 GitHub Stats:
-###
+![](https://github-readme-stats.vercel.app/api?username=Chitundu15&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chitundu15&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitundu15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chitundu15&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
-###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chitundu15&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
@@ -26,6 +24,17 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chitundu15&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
----
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=ToonsVisitors)
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Chitundu15.Chitundu15&left_text=Toons%20Visitors"  />
+</div>
+
+###
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/6c970c6f-1858-4ae6-b7c1-670f21b2d4d3" alt="Logo" width="100" />
+</p>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
