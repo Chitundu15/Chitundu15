@@ -11,11 +11,9 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitundu15&show_icons=true&locale=en&layout=compact" alt="chitundu15" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitundu15&show_icons=true&locale=en" alt="chitundu15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chitundu15&" alt="chitundu15" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Chitundu15&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=chitundu15&theme=github-dark-dimmed&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitundu15&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chitundu15&theme=dark&no-frame=true&no-bg=true&margin-w=4)
@@ -25,5 +23,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chitundu15&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
+---
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=ToonsVisitors)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
