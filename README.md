@@ -12,7 +12,10 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Chitundu15&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Chitundu15&theme=dark&hide_border=true)<br/>
+<!-- GITHUB_STREAK_START -->
+🔥 GitHub Streak: **0 days**
+<!-- GITHUB_STREAK_END -->
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitundu15&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 

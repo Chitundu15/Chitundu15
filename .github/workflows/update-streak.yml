@@ -1,0 +1,35 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight UTC
+  workflow_dispatch:     # Allow manual trigger
+  push:
+    paths:
+      - streak-checker.js
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run streak checker
+        run: node streak-checker.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "🔁 Update GitHub streak" || echo "No changes to commit"
+          git push
