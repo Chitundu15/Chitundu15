@@ -1,3 +1,4 @@
+require("dotenv").config();
 const { GraphQLClient, gql } = require("graphql-request");
 const fs = require("fs");
 
