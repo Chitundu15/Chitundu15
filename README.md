@@ -16,7 +16,7 @@
 🔥 GitHub Streak: **1 day**
 <!-- GITHUB_STREAK_END -->
 <br/>
-![GitHub Streak](https://github.com/Chitundu15/Chitundu15/blob/main/streak-badge.svg)
+<img src="./streak-badge.svg" width="300" />
 
 
 ## 🏆 GitHub Trophies
